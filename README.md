@@ -1,6 +1,6 @@
-## 🚀 FLAM AI Assignment – Parameter Results
+##  FLAM AI Assignment – Parameter Results
 
-### 🔍 Unknown Parameters
+###  Unknown Parameters
 | Parameter | Value |
 |------------|--------|
 | θ | **30.000387°** |
@@ -9,7 +9,7 @@
 
 ---
 
-### 🧮 Parametric Equations
+###  Parametric Equations
 
 \[
 x = t \cdot \cos(30.000387) - e^{0.030001|t|} \cdot \sin(0.3t) \cdot \sin(30.000387) + 55.000311
@@ -21,13 +21,13 @@ y = 42 + t \cdot \sin(30.000387) + e^{0.030001|t|} \cdot \sin(0.3t) \cdot \cos(3
 
 ---
 
-### 📈 Domain
+###  Domain
 \[
 6 \leq t \leq 60
 \]
 
 ---
 
-### ⚙️ Performance
+###  Performance
 **Mean L1 Distance:** `0.0258`
 
